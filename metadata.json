@@ -1,0 +1,7 @@
+{
+  "name": "AutoSave - Smart Insurance Quote",
+  "description": "Get the best car insurance rates in minutes. Use AI to scan your license for instant auto-filling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
